@@ -3,14 +3,13 @@ This repository contains a neural network model inspired by TinyVGG. It include 
 
 ## Pre-requisite for dataset structure
 
-TinyVGG/dataset/
-    --custom dataset/
-        --training dataset/
-            --class1/
-            --class2/
-            --class3/
-        --testing dataset/
-            --class1/
-            --class2/
-            --class3/
+- TinyVGG/dataset/custom dataset/
+    - training dataset/
+        - class1/
+        - class2/
+        - class3/
+    - testing dataset/
+        - class1/
+        - class2/
+        - class3/
 
